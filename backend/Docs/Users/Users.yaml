@@ -1,5 +1,5 @@
 ##Copia de lo hecho en clase 39 
-##TODO: Agregar el resto de los métodos y completar lo mismo para Carts y Products
+##TODO: Completar lo mismo para Carts y Products
 
 paths:
   /api/users/:
